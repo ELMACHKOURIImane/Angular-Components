@@ -1,0 +1,8 @@
+.btn{
+    background-color: #008000 !important;
+    margin-top: 10px;
+    box-shadow: 2px 2px  #7ba57b;
+}
+a:hover{
+    text-decoration: none;
+}

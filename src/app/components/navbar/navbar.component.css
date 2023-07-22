@@ -1,0 +1,13 @@
+.btn{
+    border: none;
+    padding: 12px 16px;
+    background-color: #fff;
+    margin: 12px;
+}
+.btn:hover{
+    background-color: #008000;
+}
+a:hover{
+    text-decoration: none;
+    color: black;
+}
